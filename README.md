@@ -1,11 +1,20 @@
 # Matplotlib and pyplot
+# Sorting Algorithm Analysis Project
 
-Complete the tasks in the Python Notebook in this repository.
-To be submitted for credit, all changes must be committed and pushed to this repository (do not create your own repository unless instructed to on the course website).
+This project provides an analysis of sorting algorithms, specifically focusing on insertion sort and merge sort. The visuals help to illustrate the differences in performance between insertion sort and merge sort.
 
-## Rubric
+## Contents
 
-Each question is worth two points: 
+- **Notebook (pyplot.ipynb) Files**: Contains the executed code for analyzing and visualizing the performance of insertion sort and merge sort.
+- **HTML Exports**: These are HTML versions of the notebooks for easy viewing without requiring a Jupyter Notebook environment.
+- **README.md**: An overview of the project and contents.
 
-* Data plotted as described by the question (1 pt)
-* Plot contains required elements (title, axis labels, axis titles, legend if required)
+## Usage
+
+- The repository from Github has been cloned to local, the notebook has to be open in Jupyter or VSCode, view the exported HTML file directly for the executed results.
+
+## Installation
+
+To run the code in this project, is needed:
+- Python 3.x
+- `matplotlib` for plotting
